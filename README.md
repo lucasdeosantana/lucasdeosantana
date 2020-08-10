@@ -1,16 +1,19 @@
-### Hi there 👋
+# Lucas de Oliveira Santana
+ 
+## Facts Interesting About Me:
 
-<!--
-**lucasdeosantana/lucasdeosantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on two projects, a back-end for ecommerce and a app to manage financial budgets and investiments.
+- 🌱 I’m currently learning Typescript with React and NestJs.
+- 👯 I’m looking to collaborate on OpenSources Projetcs.
+- 🤔 I’m looking for help with Prisma ORM.
+- 💬 Ask me about my pprojects and my knowledge. 
+- 📫 How to reach me: By email, telephone and in my [Résume](http://lucas.gq). 
+- 😄 Pronouns: Lucas, Robt.
+- ⚡ Fun fact: I love astronomy, My favorite place to restore myself is on the beach, I am an Electrical Engineer, I live for create solutions for people.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Languages Knowledge
+
+![TypeScript](http://lucas.gq/img/typescript.svg) ![JavaScript](http://lucas.gq/img/javascript.svg) ![HTML](http://lucas.gq/img/html5.svg) ![CSS3](http://lucas.gq/img/css3.svg)
+<!--                TypeScript + JavaScript                          HTML + CSS                     -->
+&nbsp; &nbsp; :star::star::star: &nbsp; &nbsp; &nbsp; &nbsp; :star::star::star:
