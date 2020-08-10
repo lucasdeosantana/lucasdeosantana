@@ -14,6 +14,6 @@
 
 ## My Languages Knowledge
 
-![TypeScript](http://lucas.gq/img/typescript.svg) ![JavaScript](http://lucas.gq/img/javascript.svg) &nbsp; ![HTML](http://lucas.gq/img/html5.svg) ![CSS3](http://lucas.gq/img/css3.svg) &nbsp; &nbsp; ![React](http://lucas.gq/img/react.svg) &nbsp;&nbsp; ![Python](http://lucas.gq/img/python.svg) 
+![TypeScript](http://lucas.gq/img/typescript.svg) ![JavaScript](http://lucas.gq/img/javascript.svg) &nbsp; ![HTML](http://lucas.gq/img/html5.svg) ![CSS3](http://lucas.gq/img/css3.svg) &nbsp; &nbsp; &nbsp; &nbsp; ![React](http://lucas.gq/img/react.svg) &nbsp; &nbsp; &nbsp;&nbsp; ![Python](http://lucas.gq/img/python.svg) 
 <!--                TypeScript + JavaScript                          HTML + CSS                     -->
-&nbsp; &nbsp; &nbsp; :star::star::star: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :star::star::star:
+&nbsp; &nbsp; &nbsp; :star::star::star: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :star::star::star:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :star::star::star:
