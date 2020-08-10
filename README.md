@@ -1,4 +1,5 @@
 # Lucas de Oliveira Santana
+ I am an Electrical Engineer that love create a solutions for turn better the life of people.
  
 ## Facts Interesting About Me:
 
