@@ -3,14 +3,13 @@
  
 ## Facts Interesting About Me:
 
-- 🔭 I’m currently working on two projects, a back-end for ecommerce and a app to manage financial budgets and investiments.
-- 🌱 I’m currently learning Typescript with React and NestJs.
-- 👯 I’m looking to collaborate on OpenSources Projetcs.
-- 🤔 I’m looking for help with Prisma ORM.
-- 💬 Ask me about my pprojects and my knowledge. 
-- 📫 How to reach me: By email, telephone and in my [Résume](http://lucas.gq). 
-- 😄 Pronouns: Lucas, Robt.
-- ⚡ Fun fact: I love astronomy, My favorite place to restore myself is on the beach, I am an Electrical Engineer, I live for create solutions for people.
+🔭 I’m currently going back to the past, when I loved using microcontrollers and circuits to create awesome things!
+🌱 I’m currently studying the basics of electronics and embedded systems again and AI.
+👯 I’m looking for work where I can reach my full potential.
+💬 Ask me about my projects and my knowledge.
+📫 How to reach me on LinkedIn: lucasdeosantana
+😄 Pronouns: Lucas, Robt.
+⚡ Fun fact: I love astronomy. My favorite place to recharge is the beach. I am an Electrical Engineer, and my favorite sport is cycling. I live to create solutions for people.
 
 
 ## My Languages Knowledge
